@@ -1,0 +1,15 @@
+[
+    {
+        "model": "raterprojectapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Legend of Zelda: Tears of the Kingdom",
+            "description": "GAME OF THE YEAR, 1000/10 WOW",
+            "designer": "Nintendo",
+            "year_released": 2023,
+            "number_of_players": 1,
+            "estimated_time": "364 23:59:59",
+            "age_recommendation": 10
+        }
+    }
+]
